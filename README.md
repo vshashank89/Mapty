@@ -6,13 +6,13 @@ HTML, CSS, JavaScript, OOPS, Leaflet.js, Web APIs like Geolocation and localStor
 
 ## Key Functionalities:
 - Geolocation API gets the current location of the user.
--	Customized Map is displayed using Leaflet.js external library, when the user grants permission to access his/her location to the browser.
+-	Customized Map is displayed using Leaflet.js external library.
 -	Mark a workout on the Map and a form is displayed to fill the details about the workout.
 -	Data validation is implemented while filling out form.
 -	List of workouts entered is displayed.
--	Workouts are stored in the localStorage using API so that the data is not lost on reload or closing the browser.
+-	Workouts are stored in the localStorage so that the data is not lost on reload or closing the browser.
 -	When the user clicks on a workout displayed on the list, the map is centered to the corresponding workout.
--	Sort and DeleteAll workouts functionalities are also implemented using JavaScript.
+-	Sort and DeleteAll workouts functionalities are also implemented.
 
 
 ## User Guide:
